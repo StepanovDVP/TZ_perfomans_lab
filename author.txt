@@ -1,0 +1,2 @@
+Stepanov Dmitry
+Python3.12
